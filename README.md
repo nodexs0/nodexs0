@@ -4,8 +4,12 @@
 
 <samp>
 <b>
-¡Hola! 👋 Soy Mariano.
+¡Hola! 👋 Soy:
 <br>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=nodexs0&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138817295%3Fu%3Dfee18997ede0c278ea51a77b66370aa5233b417c%26v%3D4&label=Mariano&v=cinematic-hero-wordmark-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/wordmark?username=nodexs0&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138817295%3Fu%3Dfee18997ede0c278ea51a77b66370aa5233b417c%26v%3D4&label=Mariano&v=cinematic-hero-wordmark-1&mode=dark" width="100%" alt="Mariano animated ASCII name" />
+</picture>
 <b>
 También conocido como nodexs0 :D
 <br>
@@ -396,7 +400,9 @@ Figma
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudugalde@gmail.com)
 
 </div>
-
+<a href="https://github.com/noders0">
+<img src="https://www.gitskins.com/api/section/heatmap?username=noders0&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138817295%3Fu%3Dfee18997ede0c278ea51a77b66370aa5233b417c%26v%3D4&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="nodexs0 animated contribution jet" />
+</a>
 <br>
 
 <div align="center">
